@@ -1,11 +1,8 @@
 ### Fiat to USDC Conversion and Distribution System Documentation
 
 This project lets users convert fiat (like USD) to USDC using a backend (Node.js & Express), frontend (React with Vite and Tailwind CSS), and smart contracts for blockchain interaction. The system includes a secure treasury wallet, transaction monitoring, and reconciliation to ensure reliable operations.
-
 ---
-### Link To Github:https://github.com/Khushisrivastava9/charter-21BCE10091-task2
 
----
 ### Table of Contents
 - **System Architecture**
 - **Backend Setup**
